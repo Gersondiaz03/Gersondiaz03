@@ -21,8 +21,8 @@ As a person, I am proactive, creative, and curious. I consider myself a fast lea
 ### - **Connect with me:**
 
 > <p align="left">
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/luis-otero-desarrollo-web/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"     alt="https://www.linkedin.com/in/luis-otero-desarrollo-web/" height="30" width="40" /></a>
-  <a href="https://fb.com/luis miguel otero aponte" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="luis miguel otero aponte" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/gerson-israel-diaz-de-la-garza-669317152/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"     alt="Gerson Diaz LinkedIn Profile" height="30" width="40" /></a>
+  <a href="https://www.facebook.com/gersondiaz03/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Gerson Diaz Facebook Profile" height="30" width="40" /></a>
 </p>
 
 ### - **Languages, Stacks and Tools:**
