@@ -1,6 +1,6 @@
 <h3 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hello there! </h3>
 <p>
-    <b><h2>Welcome to my GitHub Profile!</h2></b><br><br><br>
+    <b><h2>Welcome to my GitHub Profile!</h2></b><br>
     <i> My name is Gerson Israel Diaz de la Garza.</i><br>
         
 I have a passion for programming, specifically Frontend Web development using the Angular Framework. I have engaged and been working in numerous projects using Angular, primarily for learning, practicing, and developing my skills in this path.
