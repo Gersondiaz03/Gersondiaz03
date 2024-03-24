@@ -1,4 +1,4 @@
-**Hello there 👋!** 
+<center>**Hello there 👋!** </center>
 
 My name is **Gerson Israel Diaz de la Garza**. I am currently in my ninth semester of **Systems Engineering** studies at the **Francisco de Paula Santander University** and I am a **Technician in Programming Applications and Services for the Cloud** from **SENA** (Servicio Nacional de Aprendizaje).
 
@@ -24,4 +24,9 @@ As a person, I am proactive, creative, and curious. I consider myself a fast lea
 
 - **Languages, Stacks and Tools:**
 
-💻 🌐 🔥 ⚛
+> ![Angular]([https://assets.digitalocean.com/articles/alligator/boo.svg](https://miro.medium.com/v2/resize:fit:2680/1*jlg3PXZ6PYdUGy40tXybKw.gif) "Angular") ![TailwindCSS]([https://assets.digitalocean.com/articles/alligator/boo.svg](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/320px-Tailwind_CSS_Logo.svg.png) "TailwindCSS") ![.NET]([https://assets.digitalocean.com/articles/alligator/boo.svg](https://logos-world.net/wp-content/uploads/2022/01/NET-Framework-Logo.png) "a title") ![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg ".NET BackEnd developmentt")
+
+
+
+
+
