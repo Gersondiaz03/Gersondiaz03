@@ -21,22 +21,22 @@ As a person, I am proactive, creative, and curious. I consider myself a fast lea
 
 ### 🚀 Programming Languages:
 
-[![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/JulianRivers)
-[![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=postgresql)](https://github.com/JulianRivers)
+[![JavaScript](https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=javascript)](https://github.com/Gersondiaz03/)
+[![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=postgresql)](https://github.com/Gersondiaz03/)
 
 
 ### 🛠 Frameworks and Techs:
 
-[![Springboot](https://img.shields.io/badge/springboot-black?style=for-the-badge&logo=springboot)](https://github.com/JulianRivers)
-[![BOOTSTRAP](https://img.shields.io/badge/bootstrap-black?style=for-the-badge&logo=bootstrap)](https://github.com/JulianRivers)
-[![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/JulianRivers)
-[![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/JulianRivers)
+[![Springboot](https://img.shields.io/badge/angular-black?style=for-the-badge&logo=springboot)](https://github.com/Gersondiaz03/)
+[![BOOTSTRAP](https://img.shields.io/badge/tailwind-black?style=for-the-badge&logo=bootstrap)](https://github.com/Gersondiaz03/)
+[![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/Gersondiaz03/)
+[![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/Gersondiaz03/)
 
 ### 🌱 I am currently learning:
 
-[![Node](https://img.shields.io/badge/node.js-black?style=for-the-badge&logo=javascript)](https://github.com/JulianRivers)
-[![Mongo](https://img.shields.io/badge/mongodb-black?style=for-the-badge&logo=mongodb)](https://github.com/JulianRivers)
-[![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://github.com/JulianRivers)
+[![Node](https://img.shields.io/badge/.net-black?style=for-the-badge&logo=javascript)](https://github.com/Gersondiaz03/)
+[![Mongo](https://img.shields.io/badge/csharp-black?style=for-the-badge&logo=mongodb)](https://github.com/Gersondiaz03/)
+[![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://github.com/Gersondiaz03/)
 
 
 <details>
