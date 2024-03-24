@@ -24,7 +24,7 @@ As a person, I am proactive, creative, and curious. I consider myself a fast lea
 
 - **Languages, Stacks and Tools:**
 
->![The San Juan Mountains are beautiful!](https://tailwindui.com/img/tailwind-css-logo.svg "San Juan Mountains") ![The San Juan Mountains are beautiful!](https://dotnet.microsoft.com/static/images/home/dotnet-logo.svg  "San Juan Mountains") ![The San Juan Mountains are beautiful!](https://code.visualstudio.com/assets/brand/microsoft-code.svg "San Juan Mountains") ![The San Juan Mountains are beautiful!](https://azure.microsoft.com/en-us/global-infrastructure/media/logos/microsoft-azure-logo.svg "San Juan Mountains") ![The San Juan Mountains are beautiful!]( https://code.visualstudio.com/assets/brand/microsoft-code.svg  "San Juan Mountains")
+> ``` ![The San Juan Mountains are beautiful!](https://tailwindui.com/img/tailwind-css-logo.svg "San Juan Mountains") ![The San Juan Mountains are beautiful!](https://dotnet.microsoft.com/static/images/home/dotnet-logo.svg  "San Juan Mountains") ![The San Juan Mountains are beautiful!](https://code.visualstudio.com/assets/brand/microsoft-code.svg "San Juan Mountains") ![The San Juan Mountains are beautiful!](https://azure.microsoft.com/en-us/global-infrastructure/media/logos/microsoft-azure-logo.svg "San Juan Mountains") ![The San Juan Mountains are beautiful!]( https://code.visualstudio.com/assets/brand/microsoft-code.svg  "San Juan Mountains") ```
 
 
 
