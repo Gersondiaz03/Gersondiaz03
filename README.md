@@ -24,7 +24,7 @@ As a person, I am proactive, creative, and curious. I consider myself a fast lea
 
 - **Languages, Stacks and Tools:**
 
-> ![Cute Cat](https://example.com/cute-cat.jpg)
+> ![Cute Cat](https://timdeschryver.dev/images/angular.png)
 
 
 
