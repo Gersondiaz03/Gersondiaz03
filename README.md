@@ -8,13 +8,16 @@
 As a person, I am proactive, creative, and curious. I consider myself a fast learner in whatever is needed. As of today, I am fluent in English (B2 level) and Spanish (native), and I am currently learning French.
       <br>
     </i><br>
+    <center>
     <a href="https://www.linkedin.com/in/gerson-israel-diaz-de-la-garza-669317152/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn Logo">
     </a>
     <a href="mailto:gersondiaz030998@gmail.com">
         <img src="https://img.shields.io/badge/Email-blue?style=flat-square&logo=gmail&logoColor=white" alt="Gmail Logo">
     </a>
+    </center>
 </p>
+
 
 ### 🚀 Programming Languages:
 
