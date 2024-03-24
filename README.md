@@ -1,21 +1,21 @@
-Hi 👋, I'm Gerson Diaz
+# Hi 👋, I'm Gerson Diaz
 
 A passionate frontend developer from colombia
 
-- 🚧 I'm currently working as an entrepreneur as CEO of ModularCodes
+- 🚧 I'm currently working as an **entrepreneur** as **CEO** of **ModularCodes**
 
 - 📚 I'm currently learning .NET 8.
 
-- 👨‍💻Portfolio in development
+- 👨‍💻 Portfolio in development
 
-- 📫 How to reach me gersondiaz@gmail.com
+- 📫 **How to reach me:** gersondiaz03998@gmail.com
 
-- ⚡ Fun fact I always make people smile
+- ⚡ **Fun fact:** I always make people smile
 
-Connect with me:
+- **Connect with me:**
 
 👔 🐦
 
-Languages and Tools:
+- **Languages, Stacks and Tools:**
 
 💻 🌐 🔥 ⚛
