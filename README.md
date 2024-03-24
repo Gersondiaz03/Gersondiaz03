@@ -1,7 +1,7 @@
 <h3 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hello there! </h3>
 <p>
     <b>Welcome to my GitHub Profile!</b><br><br><br>
-    <i> My name is **Gerson Israel Diaz de la Garza**.</i><br>
+    <i> My name is Gerson Israel Diaz de la Garza.</i><br>
         
 I have a passion for programming, specifically Frontend Web development using the Angular Framework. I have engaged and been working in numerous projects using Angular, primarily for learning, practicing, and developing my skills in this path.
 In my spare time, I delve into and learn about cloud development and implementation, with a particular interest in Azure. I am also exploring the creation and research of multi-agent systems through open-source LLMs. These are hobbies that I pursue for various   personal projects. Additionally, I enjoy designing graphical interfaces and user experiences in Figma.
