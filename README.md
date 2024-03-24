@@ -16,7 +16,7 @@ As a person, I am proactive, creative, and curious. I consider myself a fast lea
 
 - 📫 **How to reach me:** gersondiaz03998@gmail.com
 
-- ⚡ **Fun fact:** I always make people smile
+- ⚡ **Fun fact:** I always make people smile 😄
 
 ### - **Connect with me:**
 
