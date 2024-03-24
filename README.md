@@ -27,15 +27,15 @@ As a person, I am proactive, creative, and curious. I consider myself a fast lea
 
 ### 🛠 Frameworks and Techs:
 
-[![Springboot](https://img.shields.io/badge/angular-black?style=for-the-badge&logo=springboot)](https://github.com/Gersondiaz03/)
-[![BOOTSTRAP](https://img.shields.io/badge/tailwind-black?style=for-the-badge&logo=bootstrap)](https://github.com/Gersondiaz03/)
+[![Springboot](https://img.shields.io/badge/angular-black?style=for-the-badge&logo=angular)](https://github.com/Gersondiaz03/)
+[![BOOTSTRAP](https://img.shields.io/badge/tailwind-black?style=for-the-badge&logo=tailwind)](https://github.com/Gersondiaz03/)
 [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/Gersondiaz03/)
 [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/Gersondiaz03/)
 
 ### 🌱 I am currently learning:
 
-[![Node](https://img.shields.io/badge/.net-black?style=for-the-badge&logo=javascript)](https://github.com/Gersondiaz03/)
-[![Mongo](https://img.shields.io/badge/csharp-black?style=for-the-badge&logo=mongodb)](https://github.com/Gersondiaz03/)
+[![Node](https://img.shields.io/badge/.net-black?style=for-the-badge&logo=ndotnet)](https://github.com/Gersondiaz03/)
+[![Mongo](https://img.shields.io/badge/csharp-black?style=for-the-badge&logo=csharp)](https://github.com/Gersondiaz03/)
 [![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://github.com/Gersondiaz03/)
 
 
