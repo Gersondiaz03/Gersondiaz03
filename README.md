@@ -18,17 +18,13 @@ As a person, I am proactive, creative, and curious. I consider myself a fast lea
 
 ### 🚀 Programming Languages:
 
-[![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/JulianRivers)
-[![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/JulianRivers)
 [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/JulianRivers)
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=postgresql)](https://github.com/JulianRivers)
-[![Dart](https://img.shields.io/badge/dart-black?style=for-the-badge&logo=dart)](https://github.com/JulianRivers)
+
 
 ### 🛠 Frameworks and Techs:
 
 [![Springboot](https://img.shields.io/badge/springboot-black?style=for-the-badge&logo=springboot)](https://github.com/JulianRivers)
-[![Django](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django)](https://github.com/JulianRivers)
-[![Flutter](https://img.shields.io/badge/Flutter-black?style=for-the-badge&logo=flutter)](https://github.com/JulianRivers)
 [![BOOTSTRAP](https://img.shields.io/badge/bootstrap-black?style=for-the-badge&logo=bootstrap)](https://github.com/JulianRivers)
 [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/JulianRivers)
 [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/JulianRivers)
@@ -36,11 +32,8 @@ As a person, I am proactive, creative, and curious. I consider myself a fast lea
 ### 🌱 I am currently learning:
 
 [![Node](https://img.shields.io/badge/node.js-black?style=for-the-badge&logo=javascript)](https://github.com/JulianRivers)
-[![Express](https://img.shields.io/badge/express.js-black?style=for-the-badge&logo=express)](https://github.com/JulianRivers)
-[![NestJS](https://img.shields.io/badge/nestJS-black?style=for-the-badge&logo=nestjs)](https://github.com/JulianRivers)
 [![Mongo](https://img.shields.io/badge/mongodb-black?style=for-the-badge&logo=mongodb)](https://github.com/JulianRivers)
 [![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://github.com/JulianRivers)
-[![Jira](https://img.shields.io/badge/jira-black?style=for-the-badge&logo=jira)](https://github.com/JulianRivers)
 
 
 <details>
