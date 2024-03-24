@@ -6,7 +6,7 @@ I have a passion for programming, specifically **Frontend Web development** usin
 
 In my spare time, I delve into and learn about cloud development and implementation, with a particular interest in Azure. I am also exploring the creation and research of multi-agent systems through open-source LLMs. These are hobbies that I pursue for various personal projects. Additionally, I enjoy designing graphical interfaces and user experiences in Figma.
 
-As a person, I am proactive, creative, and curious. I consider myself a fast learner in whatever is needed. As of today, I am fluent in English (B2 level) and Spanish (native), and I am currently learning French.
+As a person, I am proactive, creative, and curious. I consider myself a fast learner in whatever is needed. As of today, I am fluent in **English (B2-almost C1 level)** and **Spanish (native)**, and currently learning French.
 
 - 🚧 I'm currently working as a **freelancer** and **entrepreneur** as **CEO** at **ModularCodes**
 
