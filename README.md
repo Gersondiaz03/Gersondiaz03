@@ -21,7 +21,7 @@ As a person, I am proactive, creative, and curious. I consider myself a fast lea
 
 ### 🚀 Programming Languages:
 
-[![JavaScript](https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=javascript)](https://github.com/Gersondiaz03/)
+[![JavaScript](https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript)](https://github.com/Gersondiaz03/)
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=postgresql)](https://github.com/Gersondiaz03/)
 
 
@@ -35,8 +35,8 @@ As a person, I am proactive, creative, and curious. I consider myself a fast lea
 
 ### 🌱 I am currently learning:
 
-[![Node](https://img.shields.io/badge/.net-black?style=for-the-badge&logo=dotnet)](https://github.com/Gersondiaz03/)
-[![Mongo](https://img.shields.io/badge/csharp-black?style=for-the-badge&logo=csharp)](https://github.com/Gersondiaz03/)
+[![.NET](https://img.shields.io/badge/.net-black?style=for-the-badge&logo=dotnet)](https://github.com/Gersondiaz03/)
+[![C#](https://img.shields.io/badge/csharp-black?style=for-the-badge&logo=csharp)](https://github.com/Gersondiaz03/)
 [![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://github.com/Gersondiaz03/)
 
 
