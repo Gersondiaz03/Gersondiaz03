@@ -27,8 +27,8 @@ As a person, I am proactive, creative, and curious. I consider myself a fast lea
 
 ### 🛠 Frameworks and Techs:
 
-[![Springboot](https://img.shields.io/badge/angular-black?style=for-the-badge&logo=angular)](https://github.com/Gersondiaz03/)
-[![BOOTSTRAP](https://img.shields.io/badge/tailwind-black?style=for-the-badge&logo=tailwind)](https://github.com/Gersondiaz03/)
+[![Angular](https://img.shields.io/badge/angular-black?style=for-the-badge&logo=angular)](https://github.com/Gersondiaz03/)
+[![TailwindCSS](https://img.shields.io/badge/tailwind-black?style=for-the-badge&logo=tailwindcss)](https://github.com/Gersondiaz03/)
 [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/Gersondiaz03/)
 [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/Gersondiaz03/)
 
