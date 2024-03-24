@@ -34,7 +34,7 @@ As a person, I am proactive, creative, and curious. I consider myself a fast lea
 
 ### 🌱 I am currently learning:
 
-[![Node](https://img.shields.io/badge/.net-black?style=for-the-badge&logo=ndotnet)](https://github.com/Gersondiaz03/)
+[![Node](https://img.shields.io/badge/.net-black?style=for-the-badge&logo=dotnet)](https://github.com/Gersondiaz03/)
 [![Mongo](https://img.shields.io/badge/csharp-black?style=for-the-badge&logo=csharp)](https://github.com/Gersondiaz03/)
 [![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://github.com/Gersondiaz03/)
 
