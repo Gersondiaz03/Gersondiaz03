@@ -31,7 +31,7 @@ As a person, I am proactive, creative, and curious. I consider myself a fast lea
 [![TailwindCSS](https://img.shields.io/badge/tailwind-black?style=for-the-badge&logo=tailwindcss)](https://github.com/Gersondiaz03/)
 [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/Gersondiaz03/)
 [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/Gersondiaz03/)
-[![Azure](https://img.shields.io/badge/microsoftazure-black?style=for-the-badge&logo=microsoftazure)](https://github.com/Gersondiaz03/)
+[![Azure](https://img.shields.io/badge/azure-black?style=for-the-badge&logo=microsoftazure)](https://github.com/Gersondiaz03/)
 
 ### 🌱 I am currently learning:
 
