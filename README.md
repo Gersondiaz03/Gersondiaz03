@@ -1,43 +1,32 @@
-<h3 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hello there! </h3>
-<p>
-    <b><h2>Welcome to my GitHub Profile!</h2></b><br>
-    <i> My name is Gerson Israel Diaz de la Garza.</i><br>
-        
-I have a passion for programming, specifically Frontend Web development using the Angular Framework. I have engaged and been working in numerous projects using Angular, primarily for learning, practicing, and developing my skills in this path.
-In my spare time, I delve into and learn about cloud development and implementation, with a particular interest in Azure. I am also exploring the creation and research of multi-agent systems through open-source LLMs. These are hobbies that I pursue for various   personal projects. Additionally, I enjoy designing graphical interfaces and user experiences in Figma.
+<h3 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=30px> Hi there! </h3> <p>
+<b><h2>Welcome to My GitHub Profile</h2></b>
 
-As a person, I am proactive, creative, and curious. I consider myself a fast learner in whatever is needed. As of today, I am fluent in English (B2 level) and Spanish (native), and I am currently learning French.
-    <br>
-    <div align="center">
-    <a href="https://www.linkedin.com/in/gerson-israel-diaz-de-la-garza-669317152/">
-        <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn Logo">
-    </a>
-    <a href="mailto:gersondiaz030998@gmail.com">
-        <img src="https://img.shields.io/badge/Email-blue?style=flat-square&logo=gmail&logoColor=white" alt="Gmail Logo">
-    </a>
-    </div>
-</p>
-
-
+<p>I'm Gerson Israel Diaz de la Garza, a passionate software developer with a keen interest in Front-end Web development using the Angular framework. I've been actively working on numerous projects utilizing Angular to enhance my skills and gain hands-on experience.</p> <p>In my leisure time, I explore cloud development and implementation, particularly Azure, as well as the creation and research of multi-agent systems through open-source LLMs. These areas serve as exciting personal projects that allow me to continuously learn and grow. Additionally, I have a strong affinity for designing intuitive graphical user interfaces and user experiences using Figma.</p> <p>As an individual, I am proactive, creative, and inquisitive, with a strong commitment to continuous learning. Currently, I am fluent in English (B2 level) and Spanish (native), and I am actively learning French.</p> <br> <div align="center"> <a href="https://www.linkedin.com/in/gerson-israel-diaz-de-la-garza-669317152/"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn Logo" style="filter: grayscale(100%); opacity: 0.7; transition: filter 0.3s ease-in-out, opacity 0.3s ease-in-out;" onmouseover="this.style.filter='none'; this.style.opacity='1';" onmouseout="this.style.filter='grayscale(100%)'; this.style.opacity='0.7';"> </a> <a href="mailto:gersondiaz030998@gmail.com"> <img src="https://img.shields.io/badge/Email-blue?style=flat-square&logo=gmail&logoColor=white" alt="Gmail Logo" style="filter: grayscale(100%); opacity: 0.7; transition: filter 0.3s ease-in-out, opacity 0.3s ease-in-out;" onmouseover="this.style.filter='none'; this.style.opacity='1';" onmouseout="this.style.filter='grayscale(100%)'; this.style.opacity='0.7';"> </a> </div> </p>
 ### 🚀 Programming Languages:
 
-[![Typescript](https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript)](https://github.com/Gersondiaz03/)
-[![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=postgresql)](https://github.com/Gersondiaz03/)
+[![Typescript](https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript)\](https://github.com/Gersondiaz03/ "Typescript") <img src="https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript" alt="Typescript" style="filter: grayscale(100%); opacity: 0.7; transition: filter 0.3s ease-in-out, opacity 0.3s ease-in-out;" onmouseover="this.style.filter='brightness(0.7) sepia(1) hue-rotate(300deg) saturate(5)'; this.style.opacity='1';" onmouseout="this.style.filter='grayscale(100%)'; this.style.opacity='0.7';">
 
+[![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=postgresql)\](https://github.com/Gersondiaz03/ "SQL") <img src="https://img.shields.io/badge/sql-black?style=for-the-badge&logo=postgresql" alt="SQL" style="filter: grayscale(100%); opacity: 0.7; transition: filter 0.3s ease-in-out, opacity 0.3s ease-in-out;" onmouseover="this.style.filter='brightness(0.7) sepia(1) hue-rotate(300deg) saturate(5)'; this.style.opacity='1';" onmouseout="this.style.filter='grayscale(100%)'; this.style.opacity='0.7';">
 
-### 🛠 Frameworks and Techs:
+### 🛠 Frameworks and Technologies:
 
-[![Angular](https://img.shields.io/badge/angular-black?style=for-the-badge&logo=angular)](https://github.com/Gersondiaz03/)
-[![TailwindCSS](https://img.shields.io/badge/tailwind-black?style=for-the-badge&logo=tailwindcss)](https://github.com/Gersondiaz03/)
-[![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/Gersondiaz03/)
-[![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/Gersondiaz03/)
-[![Azure](https://img.shields.io/badge/azure-black?style=for-the-badge&logo=microsoftazure)](https://github.com/Gersondiaz03/)
+[![Angular](https://img.shields.io/badge/angular-black?style=for-the-badge&logo=angular)\](https://github.com/Gersondiaz03/ "Angular") <img src="https://img.shields.io/badge/angular-black?style=for-the-badge&logo=angular" alt="Angular" style="filter: grayscale(100%); opacity: 0.7; transition: filter 0.3s ease-in-out, opacity 0.3s ease-in-out;" onmouseover="this.style.filter='brightness(0.7) sepia(1) hue-rotate(300deg) saturate(5)'; this.style.opacity='1';" onmouseout="this.style.filter='grayscale(100%)'; this.style.opacity='0.7';">
 
-### 🌱 I am currently learning:
+[![TailwindCSS](https://img.shields.io/badge/tailwind-black?style=for-the-badge&logo=tailwindcss)\](https://github.com/Gersondiaz03/ "TailwindCSS") <img src="https://img.shields.io/badge/tailwind-black?style=for-the-badge&logo=tailwindcss" alt="TailwindCSS" style="filter: grayscale(100%); opacity: 0.7; transition: filter 0.3s ease-in-out, opacity 0.3s ease-in-out;" onmouseover="this.style.filter='brightness(0.7) sepia(1) hue-rotate(300deg) saturate(5)'; this.style.opacity='1';" onmouseout="this.style.filter='grayscale(100%)'; this.style.opacity='0.7';">
 
-[![.NET](https://img.shields.io/badge/.Net-black?style=for-the-badge&logo=dotnet)](https://github.com/Gersondiaz03/)
-[![C#](https://img.shields.io/badge/csharp-black?style=for-the-badge&logo=csharp)](https://github.com/Gersondiaz03/)
-[![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://github.com/Gersondiaz03/)
+[![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)\](https://github.com/Gersondiaz03/ "HTML5") <img src="https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5" alt="HTML5" style="filter: grayscale(100%); opacity: 0.7; transition: filter 0.3s ease-in-out, opacity 0.3s ease-in-out;" onmouseover="this.style.filter='brightness(0.7) sepia(1) hue-rotate(300deg) saturate(5)'; this.style.opacity='1';" onmouseout="this.style.filter='grayscale(100%)'; this.style.opacity='0.7';">
+
+[![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)\](https://github.com/Gersondiaz03/ "CSS3") <img src="https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3" alt="CSS3" style="filter: grayscale(100%); opacity: 0.7; transition: filter 0.3s ease-in-out, opacity 0.3s ease-in-out;" onmouseover="this.style.filter='brightness(0.7) sepia(1) hue-rotate(300deg) saturate(5)'; this.style.opacity='1';" onmouseout="this.style.filter='grayscale(100%)'; this.style.opacity='0.7';">
+
+[![Azure](https://img.shields.io/badge/azure-black?style=for-the-badge&logo=microsoftazure)\](https://github.com/Gersondiaz03/ "Azure") <img src="https://img.shields.io/badge/azure-black?style=for-the-badge&logo=microsoftazure" alt="Azure" style="filter: grayscale(100%); opacity: 0.7; transition: filter 0.3s ease-in-out, opacity 0.3s ease-in-out;" onmouseover="this.style.filter='brightness(0.7) sepia(1) hue-rotate(300deg) saturate(5)'; this.style.opacity='1';" onmouseout="this.style.filter='grayscale(100%)'; this.style.opacity='0.7';">
+
+### 🌱 Currently Learning:
+
+[![.NET](https://img.shields.io/badge/.Net-black?style=for-the-badge&logo=dotnet)\](https://github.com/Gersondiaz03/ ".NET") <img src="https://img.shields.io/badge/.Net-black?style=for-the-badge&logo=dotnet" alt=".NET" style="filter: grayscale(100%); opacity: 0.7; transition: filter 0.3s ease-in-out, opacity 0.3s ease-in-out;" onmouseover="this.style.filter='brightness(0.7) sepia(1) hue-rotate(300deg) saturate(5)'; this.style.opacity='1';" onmouseout="this.style.filter='grayscale(100%)'; this.style.opacity='0.7';">
+
+[![C#](https://img.shields.io/badge/csharp-black?style=for-the-badge&logo=csharp)\](https://github.com/Gersondiaz03/ "C#") <img src="https://img.shields.io/badge/csharp-black?style=for-the-badge&logo=csharp" alt="C#" style="filter: grayscale(100%); opacity: 0.7; transition: filter 0.3s ease-in-out, opacity 0.3s ease-in-out;" onmouseover="this.style.filter='brightness(0.7) sepia(1) hue-rotate(300deg) saturate(5)'; this.style.opacity='1';" onmouseout="this.style.filter='grayscale(100%)'; this.style.opacity='0.7';">
+
+[![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)\](https://github.com/Gersondiaz03/ "Docker") <img src="https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker" alt="Docker" style="filter: grayscale(100%); opacity: 0.7; transition: filter 0.3s ease-in-out, opacity 0.3s ease-in-out;" onmouseover="this.style.filter='brightness(0.7) sepia(1) hue-rotate(300deg) saturate(5)'; this.style.opacity='1';" onmouseout="this.style.filter='grayscale(100%)'; this.style.opacity='0.7';">
 
 
 <details>
