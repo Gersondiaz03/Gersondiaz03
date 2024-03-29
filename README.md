@@ -13,9 +13,9 @@
 <h3>🛠 Frameworks and Techs:</h3> 
 
 [![Angular](https://img.shields.io/badge/angular-red?style=for-the-badge&logo=angular)](https://github.com/Gersondiaz03/)
-[![TailwindCSS](https://img.shields.io/badge/tailwind-cyan?style=for-the-badge&logo=tailwindcss)](https://github.com/Gersondiaz03/)
+[![TailwindCSS](https://img.shields.io/badge/tailwind-blue?style=for-the-badge&logo=tailwindcss)](https://github.com/Gersondiaz03/)
 [![HTML5](https://img.shields.io/badge/html5-orange?style=for-the-badge&logo=html5)](https://github.com/Gersondiaz03/)
-[![CSS3](https://img.shields.io/badge/css3-golden?style=for-the-badge&logo=css3)](https://github.com/Gersondiaz03/)
+[![CSS3](https://img.shields.io/badge/css3-gold?style=for-the-badge&logo=css3)](https://github.com/Gersondiaz03/)
 [![Azure](https://img.shields.io/badge/azure-blue?style=for-the-badge&logo=microsoftazure)](https://github.com/Gersondiaz03/)
 
 <h3> 🌱 I am currently learning:</h3>
