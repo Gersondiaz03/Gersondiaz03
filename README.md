@@ -8,7 +8,7 @@
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=postgresql)](https://github.com/Gersondiaz03/)
 
 
-### 🛠 Frameworks and Techs:
+<h3>🛠 Frameworks and Techs:</h3> 
 
 [![Angular](https://img.shields.io/badge/angular-black?style=for-the-badge&logo=angular)](https://github.com/Gersondiaz03/)
 [![TailwindCSS](https://img.shields.io/badge/tailwind-black?style=for-the-badge&logo=tailwindcss)](https://github.com/Gersondiaz03/)
