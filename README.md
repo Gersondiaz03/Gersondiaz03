@@ -7,7 +7,7 @@
 <h3>🚀 Programming Languages:</h3> 
 
 [![Typescript](https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript)](https://github.com/Gersondiaz03/)
-[![SQL](https://img.shields.io/badge/sql-white?style=for-the-badge&logo=postgresql)](https://github.com/Gersondiaz03/)
+[![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=postgresql)](https://github.com/Gersondiaz03/)
 
 
 <h3>🛠 Frameworks and Techs:</h3> 
@@ -20,7 +20,7 @@
 
 <h3> 🌱 I am currently learning:</h3>
 
-[![.NET](https://img.shields.io/badge/.Net-violet?style=for-the-badge&logo=dotnet)](https://github.com/Gersondiaz03/)
+[![.NET](https://img.shields.io/badge/.Net-deepBlue?style=for-the-badge&logo=dotnet)](https://github.com/Gersondiaz03/)
 [![C#](https://img.shields.io/badge/csharp-purple?style=for-the-badge&logo=csharp)](https://github.com/Gersondiaz03/)
 [![Docker](https://img.shields.io/badge/docker-cyan?style=for-the-badge&logo=docker)](https://github.com/Gersondiaz03/)
 
