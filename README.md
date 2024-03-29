@@ -20,9 +20,9 @@
 
 <h3> 🌱 I am currently learning:</h3>
 
-[![.NET](https://img.shields.io/badge/.Net-deepBlue?style=for-the-badge&logo=dotnet)](https://github.com/Gersondiaz03/)
+[![.NET](https://img.shields.io/badge/.Net-green?style=for-the-badge&logo=dotnet)](https://github.com/Gersondiaz03/)
 [![C#](https://img.shields.io/badge/csharp-purple?style=for-the-badge&logo=csharp)](https://github.com/Gersondiaz03/)
-[![Docker](https://img.shields.io/badge/docker-cyan?style=for-the-badge&logo=docker)](https://github.com/Gersondiaz03/)
+[![Docker](https://img.shields.io/badge/docker-blue?style=for-the-badge&logo=docker)](https://github.com/Gersondiaz03/)
 
 <details>
 <summary>Click Para Ver Estadísticas de Github <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> </summary>
