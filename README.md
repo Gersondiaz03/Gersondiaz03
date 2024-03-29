@@ -11,17 +11,17 @@
 
 <h3>🛠 Frameworks and Techs:</h3> 
 
-[![Angular](https://img.shields.io/badge/angular-black?style=for-the-badge&logo=angular)](https://github.com/Gersondiaz03/)
-[![TailwindCSS](https://img.shields.io/badge/tailwind-black?style=for-the-badge&logo=tailwindcss)](https://github.com/Gersondiaz03/)
-[![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/Gersondiaz03/)
+[![Angular](https://img.shields.io/badge/angular-red?style=for-the-badge&logo=angular)](https://github.com/Gersondiaz03/)
+[![TailwindCSS](https://img.shields.io/badge/tailwind-blue?style=for-the-badge&logo=tailwindcss)](https://github.com/Gersondiaz03/)
+[![HTML5](https://img.shields.io/badge/html5-orange?style=for-the-badge&logo=html5)](https://github.com/Gersondiaz03/)
 [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/Gersondiaz03/)
-[![Azure](https://img.shields.io/badge/azure-black?style=for-the-badge&logo=microsoftazure)](https://github.com/Gersondiaz03/)
+[![Azure](https://img.shields.io/badge/azure-blue?style=for-the-badge&logo=microsoftazure)](https://github.com/Gersondiaz03/)
 
 <h3> 🌱 I am currently learning:</h3>
 
-[![.NET](https://img.shields.io/badge/.Net-black?style=for-the-badge&logo=dotnet)](https://github.com/Gersondiaz03/)
-[![C#](https://img.shields.io/badge/csharp-black?style=for-the-badge&logo=csharp)](https://github.com/Gersondiaz03/)
-[![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://github.com/Gersondiaz03/)
+[![.NET](https://img.shields.io/badge/.Net-blue?style=for-the-badge&logo=dotnet)](https://github.com/Gersondiaz03/)
+[![C#](https://img.shields.io/badge/csharp-purple?style=for-the-badge&logo=csharp)](https://github.com/Gersondiaz03/)
+[![Docker](https://img.shields.io/badge/docker-blue?style=for-the-badge&logo=docker)](https://github.com/Gersondiaz03/)
 
 <details>
 <summary>Click Para Ver Estadísticas de Github <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> </summary>
