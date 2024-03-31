@@ -14,7 +14,7 @@
 
 [![Angular](https://img.shields.io/badge/angular-red?style=for-the-badge&logo=angular)](https://github.com/Gersondiaz03/)
 [![TailwindCSS](https://img.shields.io/badge/tailwind-blue?style=for-the-badge&logo=tailwindcss)](https://github.com/Gersondiaz03/)
-[![Bootstrap](https://img.shields.io/badge/bootstrap-purpple?style=for-the-badge&logo=bootstrap)](https://github.com/Gersondiaz03/)
+[![Bootstrap](https://img.shields.io/badge/bootstrap-purple?style=for-the-badge&logo=bootstrap)](https://github.com/Gersondiaz03/)
 [![HTML5](https://img.shields.io/badge/html5-orange?style=for-the-badge&logo=html5)](https://github.com/Gersondiaz03/)
 [![CSS3](https://img.shields.io/badge/css3-gold?style=for-the-badge&logo=css3)](https://github.com/Gersondiaz03/)
 [![Azure](https://img.shields.io/badge/azure-blue?style=for-the-badge&logo=microsoftazure)](https://github.com/Gersondiaz03/)
