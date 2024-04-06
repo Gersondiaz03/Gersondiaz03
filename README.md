@@ -17,7 +17,7 @@
 [![Bootstrap](https://img.shields.io/badge/bootstrap-purple?style=for-the-badge&logo=bootstrap)](https://github.com/Gersondiaz03/)
 [![HTML5](https://img.shields.io/badge/html5-orange?style=for-the-badge&logo=html5)](https://github.com/Gersondiaz03/)
 [![CSS3](https://img.shields.io/badge/css3-gold?style=for-the-badge&logo=css3)](https://github.com/Gersondiaz03/)
-[![NestJS](https://img.shields.io/badge/NestJS-black?style=for-the-badge&logo=nest)](https://github.com/Gersondiaz03/)
+[![NestJS](https://img.shields.io/badge/NestJS-black?style=for-the-badge&logo=nestjs)](https://github.com/Gersondiaz03/)
 [![Azure](https://img.shields.io/badge/azure-blue?style=for-the-badge&logo=microsoftazure)](https://github.com/Gersondiaz03/)
 
 <h3> 🌱 I am currently learning:</h3>
